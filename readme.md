@@ -1,11 +1,24 @@
 # RAGE: Making serious games with reusable software components
 
 
-## Organizers:
-The workshop is organized with the support of the RAGE H2020 flagship project on (serious) game technologies (http://rageproject.eu/). You can contact persons below with questions regarding the workshop:
+## Organizers
+The workshop is organized with the support of the [RAGE H2020 flagship project on (serious) game technologies](http://rageproject.eu/). You can contact persons below with questions regarding the workshop:
 * Wim van der Vegt (Wim.vanderVegt@ou.nl), Open University of the Netherlands
 * Enkhbold Nyamsuren (Enkhbold.Nyamsuren@ou.nl), Open University of the Netherlands
 * Wim Westera (Wim.Westera@ou.nl), Open University of the Netherlands
+
+## Aim
+The workshop entails a hands-on technical session addressing how to enrich your serious game with RAGE software components. Based on concrete examples discussed and presented in the workshop you will learn and understand how to quickly unpack, install and integrate software components in your game project.
+
+## Target participants
+The workshop is primarily targeting developers from game studios as well as researchers, educators and students involved or interested in game development. Given the technical scope of the workshop, participants should have some basic knowledge of software development and/or game engines. You may want to bring your laptop with Visual Studio installed. 
+
+## Preparations
+No specific preparations are required. You may want to check the [RAGE Portal](https://www.gamecomponents.eu), which is currently exposing up 40 ready-to-use game technology components.
+
+## Rationale
+The European Commission has designated (serious) gaming as a top priority for addressing a multitude of societal issues in, e.g., education, training, and health, and in the wider scope of the “digital transformation” of society. Today, the serious gaming landscape is still highly fragmented, displaying a lot or reinventing the wheel. Component-based approaches and the reuse of software will support developers at creating better games easier, faster, and more cost-effectively. 
+
 
 
 [![Build Status](https://travis-ci.org/e-ucm/rage-analytics-realtime.svg)](https://travis-ci.org/e-ucm/rage-analytics-realtime) [![Coverage Status](https://coveralls.io/repos/e-ucm/rage-analytics-realtime/badge.svg?branch=master&service=github)](https://coveralls.io/github/e-ucm/rage-analytics-realtime?branch=master)
