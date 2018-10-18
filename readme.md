@@ -1,4 +1,10 @@
-# Analytics Realtime
+# RAGE: Making serious games with reusable software components
+
+Workshop organizers:
+Wim van der Vegt (Wim.vanderVegt@ou.nl), Open University of the Netherlands
+Enkhbold Nyamsuren (Enkhbold.Nyamsuren@ou.nl), Open University of the Netherlands
+Wim Westera (Wim.Westera@ou.nl), Open University of the Netherlands
+
 
 [![Build Status](https://travis-ci.org/e-ucm/rage-analytics-realtime.svg)](https://travis-ci.org/e-ucm/rage-analytics-realtime) [![Coverage Status](https://coveralls.io/repos/e-ucm/rage-analytics-realtime/badge.svg?branch=master&service=github)](https://coveralls.io/github/e-ucm/rage-analytics-realtime?branch=master)
 
