@@ -1,5 +1,9 @@
 # RAGE: Making serious games with reusable software components
 
+## Workshop info
+The workshop is organized as part of the [Joint Conference on Serious Games 2018](http://www.jointconference-on-seriousgames.org/), November 7-8, 2018, Darmstadt, Germany. The conference program is [here](http://www.gamedays2018.de/index.php?id=1044&L=1).
+
+The workshop will be held on the second day of the conference (November 8, 2018) from 10:45AM until 12:30PM.
 
 ## Organizers
 The workshop is organized with the support of the [RAGE H2020 flagship project on (serious) game technologies](http://rageproject.eu/). You can contact persons below with questions regarding the workshop:
