@@ -1,13 +1,11 @@
 # RAGE: Making serious games with reusable software components
 
 
-Workshop organizers:
-
-Wim van der Vegt (Wim.vanderVegt@ou.nl), Open University of the Netherlands
-
-Enkhbold Nyamsuren (Enkhbold.Nyamsuren@ou.nl), Open University of the Netherlands
-
-Wim Westera (Wim.Westera@ou.nl), Open University of the Netherlands
+## Organizers:
+The workshop is organized with the support of the RAGE H2020 flagship project on (serious) game technologies (http://rageproject.eu/). You can contact persons below with questions regarding the workshop:
+* Wim van der Vegt (Wim.vanderVegt@ou.nl), Open University of the Netherlands
+* Enkhbold Nyamsuren (Enkhbold.Nyamsuren@ou.nl), Open University of the Netherlands
+* Wim Westera (Wim.Westera@ou.nl), Open University of the Netherlands
 
 
 [![Build Status](https://travis-ci.org/e-ucm/rage-analytics-realtime.svg)](https://travis-ci.org/e-ucm/rage-analytics-realtime) [![Coverage Status](https://coveralls.io/repos/e-ucm/rage-analytics-realtime/badge.svg?branch=master&service=github)](https://coveralls.io/github/e-ucm/rage-analytics-realtime?branch=master)
